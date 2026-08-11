@@ -1,0 +1,4 @@
+interface:
+  display_name: "克制手绘插画"
+  short_description: "将照片、图像或描述转为小幅趣味铅笔线插画与动效"
+  default_prompt: "Use $restrained-hand-drawn-illustration to make a small playful pencil-line vignette with generous blank space and deliver a same-ratio JPG."
