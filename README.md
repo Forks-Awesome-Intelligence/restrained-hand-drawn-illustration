@@ -6,6 +6,8 @@
 
 Create small, playful hand-drawn illustrations from a photo, image, or written prompt. The skill turns a large or realistic scene into a quiet visual vignette: tactile variable-width charcoal-like lines, intentional open contours, generous pale negative space, and only a trace of muted color.
 
+<img src="assets/creator-avatar.jpg" alt="Tomorro Planet" width="180" />
+
 **Xiaohongshu / RED:** @Tomorro Planet
 
 ## What it does
