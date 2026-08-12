@@ -6,6 +6,8 @@
 
 Create small, playful hand-drawn illustrations from a photo, image, or written prompt. The skill turns a large or realistic scene into a quiet visual vignette: tactile variable-width charcoal-like lines, intentional open contours, generous pale negative space, and only a trace of muted color.
 
+**Xiaohongshu / RED:** @Tomorro Planet
+
 ## What it does
 
 - Reinterprets photos and visual references without copying their exact composition, text, or characters.
@@ -72,6 +74,8 @@ scripts/export_raster.py         # JPG and validated looping-GIF export helper
 # restrained-hand-drawn-illustration（简体中文）
 
 将照片、图片或文字提示转换为小巧、有趣的手绘插画。这个 skill 会把宏大或写实的场景提炼为安静的视觉小品：具有自然粗细变化的炭笔线条、有意识的开放轮廓、大面积浅色留白，以及极其克制的低饱和色彩。
+
+**小红书：** @Tomorro Planet
 
 ## 功能
 
