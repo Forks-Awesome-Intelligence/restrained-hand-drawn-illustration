@@ -28,6 +28,26 @@ Create small, playful hand-drawn illustrations from a photo, image, or written p
 - One muted accent color by default; no saturated color, gradients, realistic shading, or dense scenery.
 - Deliberate contour gaps at overlaps and turns; avoid mechanical, closed, vector-like outlines.
 
+## Generated examples
+
+<table>
+  <tr>
+    <td><img src="assets/examples/focused-work.jpg" alt="Focused Work" width="220" /><br /><sub>Focused Work</sub></td>
+    <td><img src="assets/examples/bright-idea.jpg" alt="Bright Idea" width="220" /><br /><sub>Bright Idea</sub></td>
+    <td><img src="assets/examples/gentle-handoff.jpg" alt="Gentle Handoff" width="220" /><br /><sub>Gentle Handoff</sub></td>
+  </tr>
+  <tr>
+    <td><img src="assets/examples/shared-balance.jpg" alt="Shared Balance" width="220" /><br /><sub>Shared Balance</sub></td>
+    <td><img src="assets/examples/easy-sharing.jpg" alt="Easy Sharing" width="220" /><br /><sub>Easy Sharing</sub></td>
+    <td><img src="assets/examples/slow-meeting.jpg" alt="Slow Meeting" width="220" /><br /><sub>Slow Meeting</sub></td>
+  </tr>
+  <tr>
+    <td><img src="assets/examples/happy-walk.jpg" alt="Happy Walk" width="220" /><br /><sub>Happy Walk</sub></td>
+    <td><img src="assets/examples/playful-pause.jpg" alt="Playful Pause" width="220" /><br /><sub>Playful Pause</sub></td>
+    <td><img src="assets/examples/friendly-play.jpg" alt="Friendly Play" width="220" /><br /><sub>Friendly Play</sub></td>
+  </tr>
+</table>
+
 ## Installation
 
 Clone or copy this repository into your Codex skills directory, naming the destination folder `restrained-hand-drawn-illustration`:
@@ -96,6 +116,10 @@ scripts/export_raster.py         # JPG and validated looping-GIF export helper
 - 深炭黑轮廓具有可见、自然的 2–3:1 线条粗细变化。
 - 默认只使用一种低饱和点缀色；不使用高饱和色、渐变、写实明暗或密集场景。
 - 在重叠与转折处有意识地保留轮廓空隙，避免机械、封闭、矢量化的线条。
+
+## 生成效果示例
+
+以上九张示例依次呈现：专注工作、灵感闪现、轻柔交接、共同平衡、轻松分享、慢慢开会、快乐散步、玩乐暂停与友好玩耍。
 
 ## 安装
 
