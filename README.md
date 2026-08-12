@@ -22,13 +22,13 @@ Create small, playful hand-drawn illustrations from a photo, image, or written p
 
 ## Installation
 
-Copy the `restrained-hand-drawn-illustration` folder into your Codex skills directory:
+Clone or copy this repository into your Codex skills directory, naming the destination folder `restrained-hand-drawn-illustration`:
 
 ```text
 <CODEX_HOME>/skills/restrained-hand-drawn-illustration/
 ```
 
-If you downloaded the release archive, unzip it first and copy the extracted folder into that location. Restart or refresh Codex so the skill is discovered.
+If you downloaded the release archive, unzip it first and copy its contents into that location. Restart or refresh Codex so the skill is discovered.
 
 ## Example prompts
 
@@ -47,15 +47,14 @@ Use $restrained-hand-drawn-illustration to make a 3-second looping GIF: the clim
 ## Included files
 
 ```text
-restrained-hand-drawn-illustration/
-├── SKILL.md                    # Main workflow and quality gate
-├── agents/openai.yaml          # Codex skill metadata
-├── references/
-│   ├── style-system.md          # Fixed visual rules and palette recipes
-│   ├── line-profiles.md        # Crayon, gesture, and silhouette profiles
-│   ├── prompt-compiler.md      # Prompt-building guidance
-│   └── motion-system.md        # Small-loop animation guidance
-└── scripts/export_raster.py    # JPG and validated looping-GIF export helper
+SKILL.md                         # Main workflow and quality gate
+agents/openai.yaml               # Codex skill metadata
+references/
+├── style-system.md              # Fixed visual rules and palette recipes
+├── line-profiles.md             # Crayon, gesture, and silhouette profiles
+├── prompt-compiler.md           # Prompt-building guidance
+└── motion-system.md             # Small-loop animation guidance
+scripts/export_raster.py         # JPG and validated looping-GIF export helper
 ```
 
 ## GitHub description
